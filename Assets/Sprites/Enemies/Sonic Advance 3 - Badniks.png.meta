@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 942f3c2bf3e193e4ea3a146dacfaaadb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Sonic Advance 3 - Badniks (1)_0
+    21300002: Game Boy Advance - Sonic Advance 3 - Badniks (1)_1
+    21300004: Game Boy Advance - Sonic Advance 3 - Badniks (1)_2
+    21300006: Game Boy Advance - Sonic Advance 3 - Badniks (1)_3
+    21300008: Game Boy Advance - Sonic Advance 3 - Badniks (1)_4
+    21300010: Game Boy Advance - Sonic Advance 3 - Badniks (1)_5
+    21300012: Game Boy Advance - Sonic Advance 3 - Badniks (1)_6
+    21300014: Game Boy Advance - Sonic Advance 3 - Badniks (1)_7
+    21300016: Game Boy Advance - Sonic Advance 3 - Badniks (1)_8
+    21300018: Game Boy Advance - Sonic Advance 3 - Badniks (1)_9
+    21300020: Game Boy Advance - Sonic Advance 3 - Badniks (1)_10
+    21300022: Game Boy Advance - Sonic Advance 3 - Badniks (1)_11
+    21300024: Game Boy Advance - Sonic Advance 3 - Badniks (1)_12
+    21300026: Game Boy Advance - Sonic Advance 3 - Badniks (1)_13
+    21300028: Game Boy Advance - Sonic Advance 3 - Badniks (1)_14
+    21300030: Game Boy Advance - Sonic Advance 3 - Badniks (1)_15
+    21300032: Game Boy Advance - Sonic Advance 3 - Badniks (1)_16
+    21300034: Game Boy Advance - Sonic Advance 3 - Badniks (1)_17
+    21300036: Game Boy Advance - Sonic Advance 3 - Badniks (1)_18
+    21300038: Game Boy Advance - Sonic Advance 3 - Badniks (1)_19
+    21300040: Game Boy Advance - Sonic Advance 3 - Badniks (1)_20
+    21300042: Game Boy Advance - Sonic Advance 3 - Badniks (1)_21
+    21300044: Game Boy Advance - Sonic Advance 3 - Badniks (1)_22
+    21300046: Game Boy Advance - Sonic Advance 3 - Badniks (1)_23
+    21300048: Game Boy Advance - Sonic Advance 3 - Badniks (1)_24
+    21300050: Sonic Advance 3 - Badniks (1)_0
+    21300052: Sonic Advance 3 - Badniks (1)_1
+    21300054: Sonic Advance 3 - Badniks (1)_2
+    21300056: Sonic Advance 3 - Badniks (1)_3
+    21300058: Sonic Advance 3 - Badniks (1)_4
+    21300060: Sonic Advance 3 - Badniks (1)_5
+    21300062: Sonic Advance 3 - Badniks (1)_6
+    21300064: Sonic Advance 3 - Badniks (1)_7
+    21300066: Sonic Advance 3 - Badniks (1)_8
+    21300068: Sonic Advance 3 - Badniks (1)_9
+    21300070: Sonic Advance 3 - Badniks (1)_10
+    21300072: Sonic Advance 3 - Badniks (1)_11
+    21300074: Sonic Advance 3 - Badniks (1)_12
+    21300076: Sonic Advance 3 - Badniks (1)_13
+    21300078: Sonic Advance 3 - Badniks (1)_14
+    21300080: Sonic Advance 3 - Badniks (1)_15
+    21300082: Sonic Advance 3 - Badniks (1)_16
+    21300084: Sonic Advance 3 - Badniks (1)_17
+    21300086: Sonic Advance 3 - Badniks (1)_18
+    21300088: Sonic Advance 3 - Badniks (1)_19
+    21300090: Sonic Advance 3 - Badniks (1)_20
+    21300092: Sonic Advance 3 - Badniks (1)_21
+    21300094: Sonic Advance 3 - Badniks (1)_22
+    21300096: Sonic Advance 3 - Badniks (1)_23
+    21300098: Sonic Advance 3 - Badniks (1)_24
+    21300100: Sonic Advance 3 - Badniks_0
+    21300102: Sonic Advance 3 - Badniks_1
+    21300104: Sonic Advance 3 - Badniks_2
+    21300106: Sonic Advance 3 - Badniks_3
+    21300108: Sonic Advance 3 - Badniks_4
+    21300110: Sonic Advance 3 - Badniks_5
+    21300112: Sonic Advance 3 - Badniks_6
+    21300114: Sonic Advance 3 - Badniks_7
+    21300116: Sonic Advance 3 - Badniks_8
+    21300118: Sonic Advance 3 - Badniks_9
+    21300120: Sonic Advance 3 - Badniks_10
+    21300122: Sonic Advance 3 - Badniks_11
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_0
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 490
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f4da658763214b8c0749a5f5942b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 490
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8f7bab40cbc34bb503d189bf11ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_2
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 490
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1704c90ae66b07344b600beae86bfbf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 490
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90424d48f21137e4eb499d32f2179f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_4
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 490
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cb4d3551b3dd84a86b4841c6431ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 423
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627a08eb0d1940a4fa363bc946f40628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 423
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002cd4ae9f66bc149bcd2aa3b3075037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 423
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db2f97632455e49863b1ec1300a44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 423
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9233b17e855135142a0eb8ba10f56637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 423
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d18de07d2d1294c827ce4e5f6c2490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_10
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 386
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98fa10188884145945fe7ff0058ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_11
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 384
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a5ad8e2c7ed004cb6a4d2ae9230ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 383
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39eae342a16aa049809792047f87b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 381
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad93f061ef4758b478de9f77a8eb70b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_14
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 380
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d72b7369c14b40b3ff439cd60d8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 343
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a993ba07997094dbc8096f8e04139c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 342
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74df02d3239c80b439c3981c9c3aed91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 339
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868af5ce9f71a9f49a05cc8eab835fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 343
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ada03c2e0f5143a16a04d0ea318f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_19
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa6b9f7a4dd8345bc0e0b31d78476a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_20
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 327
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a1c96652509b84bba97546324ea262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1452a0d0090fd648b7d42ff3a2ab26c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_22
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90031e89aa4af74a99950a4d654b39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_23
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 369
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde2d9a15c3b40418c81a27804218fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Badniks (1)_24
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178dad357dccd143bb6ab2bbc2f9386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_0
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 458
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3cc437efc313245aa398e655362a7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 458
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a6d8eb395f824c9d882ece04eec27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 458
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d58fbf80635204487da6baa77d2963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 458
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6f964d98d24443a3d3ffa5195f49b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 458
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0edc1008333fae4a8488e578ac526b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 458
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fcb5b1066eb3b40bbd925c49ab94cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 458
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d5203ac4ef7b419caf451c61109c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 458
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe14e80a162e6848a9f41d806b74985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 458
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc8e922bb5be634aaf9e1ca1aa6fc4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 458
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7ea9032b10d2408eba21efdd9d8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_10
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 458
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95530cd8e81f7cf449c2c6ee4f4d0030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 459
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b7b0392e90724d9164ef620de1896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_12
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 459
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cac182c0d997b48acc47dc37d591eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_13
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 459
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15eafe995990fa428f0b4ad60b6f853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 437
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9259817903864d747851829dcfd8d63b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_15
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 433
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ca13b254f1a840b50ded21908c283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_16
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 432
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3df6bd72a6482542b74967af1d00e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 431
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f641fdf0393e8647b5a7bb74505a4dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_18
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 395
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0636304f1325a4e9dbe0d7cf8031d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 395
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c057317ff162b46a05b04d4138cbc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_20
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 395
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b7995102e9f74aa6477b1c953cfd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_21
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 395
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6fc8739a179243bb612f0f6d83521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 395
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8e3535b6d4c647b57457b3b2130aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 418
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc9e17917b43d428cfc469eaabe818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks (1)_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 414
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c75893f82a01b84fbe85152516fecce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4bad6cc17e8fe448cbfc593b9e3141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 55
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b57077b738fb4bb66335e465a6dbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 58
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa0bd59a361834ebf00b0f5d6153b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9c58a42a2a3874aaa8b74abe6132a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 60
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f47b6ac5251f9418d8b87a4d7becfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 16
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5eeb0ce5ac0294ebcaa6fcdf35da8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 17
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84aa57172a67e0499192391987232e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b230017ec99b45aef7a7ed20d2011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 16
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b862ac9e0ea30e43bb2b1469fe2fdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 16
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a223ffbb97744a8c3a072b7adb85b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c67177dba4a6d4a9aa7d6d5e246ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advance 3 - Badniks_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f61fb896da26140897343965b3c457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d186a4ea835790e479498e1ab7c9f2bf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

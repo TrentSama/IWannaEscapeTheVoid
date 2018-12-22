@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: 71f2ce03d6ad00c44b856becc2695589
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_0
+    21300002: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_1
+    21300004: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_2
+    21300006: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_3
+    21300008: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_4
+    21300010: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_5
+    21300012: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_6
+    21300014: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_7
+    21300016: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_8
+    21300018: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_9
+    21300020: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_10
+    21300022: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_11
+    21300024: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_12
+    21300026: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_13
+    21300028: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_14
+    21300030: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_15
+    21300032: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_16
+    21300034: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_17
+    21300036: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_18
+    21300038: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_19
+    21300040: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_20
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97034b66d9e63904cbde3137317d754d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 242
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ee2401f949ef4d800146ae7fa71ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c960ce1755378743863bbb49c2c608a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 191
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85189076d9214b64197bde6746ddf138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 190
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b68ef88cb14f540a01c2e8d29f5214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 192
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09f0b6eeb207f44d96f79c751d9bf9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde23edfdf30c44280ea756e69fc728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9827296f4f6a149966df190353012d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de799ae053dd4f429cfa832005cc1da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8168277d75296489f575520eca3782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 162
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c9a33d8fabe91458c0aa385779990f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871a5b3d078c2742b57a0210d8d9c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508f31affd810044a2c6c1f921fd927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 123
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1857cb153b3354fba79400fdf128e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 121
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210949b15f997d46822c491102a114e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7beea8891b77f444997a91f11689578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 124
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e3d0d61fc5d3c4599b00e2c3e3afd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 125
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b7ec173ce6b2478362afaae172417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 93
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b98ff76cb6394d9dc207313a02b33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 93
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9923a8010243e45bb1b519d7401c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Egg Ball No 2_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 93
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab396355874d8045aee57e50ee8d63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2360e8ffb3f4e74c88008eb25fd4543
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

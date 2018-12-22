@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 510ca12aef82a6d43bbaf92cff1dfdf3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: I Wanna Be The Guy - The Kid_0
+    21300002: I Wanna Be The Guy - The Kid_1
+    21300004: I Wanna Be The Guy - The Kid_2
+    21300006: I Wanna Be The Guy - The Kid_3
+    21300008: I Wanna Be The Guy - The Kid_4
+    21300010: I Wanna Be The Guy - The Kid_5
+    21300012: I Wanna Be The Guy - The Kid_6
+    21300014: I Wanna Be The Guy - The Kid_7
+    21300016: I Wanna Be The Guy - The Kid_8
+    21300018: I Wanna Be The Guy - The Kid_9
+    21300020: I Wanna Be The Guy - The Kid_10
+    21300022: I Wanna Be The Guy - The Kid_11
+    21300024: I Wanna Be The Guy - The Kid_12
+    21300026: I Wanna Be The Guy - The Kid_13
+    21300028: I Wanna Be The Guy - The Kid_14
+    21300030: I Wanna Be The Guy - The Kid_15
+    21300032: I Wanna Be The Guy - The Kid_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f7f1a5218f8a4b8b721d58a105dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 253
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf06199e3958d47becd19945e0b821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62d75185054cd498ce38a1e3e80dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 253
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b98d4fde6de548b6661abc0f974a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5395766, y: 0.30804953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294f86b5336855c408e540ad983e215e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 227
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.56302935, y: 0.30804953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1de17305371e4f928dc3c91fdd381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 227
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55716616, y: 0.30630422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e3c1545bc070149ac90811a9820251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 227
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5513028, y: 0.3028143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ca599e37a2294481686ab2e411430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 227
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5439734, y: 0.3115394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042a7cc8f3724a4889a2a373a2faabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 184
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3897157, y: 0.35790953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d880e87cd9294b83c5ea172e744e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 184
+        width: 18
+        height: 23
+      alignment: 9
+      pivot: {x: 0.42128965, y: 0.3684772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2cae4cbe8941f45b930e34b8c5067c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 154
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.53786623, y: 0.27612686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bebb5f0b498e4b47a6a49d8e18f0c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 154
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.53172594, y: 0.27996522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2facb1275a30a54bbb27a76952a80db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdbb7b04e40e0d41a9929b3bc2c5087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b592f16224f7409609a881363b2b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 106
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b83885b51e564ba82d31035bb31d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I Wanna Be The Guy - The Kid_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 102
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726f86a312653c4ca6591e8baa7d4c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 042ed87d714efce4e8650b0324f5a165
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

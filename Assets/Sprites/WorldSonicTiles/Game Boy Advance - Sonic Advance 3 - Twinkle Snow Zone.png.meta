@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: da292195786e6f746bd4f64b2c192f3a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_0
+    21300002: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_1
+    21300004: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_2
+    21300006: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_3
+    21300008: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_4
+    21300010: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_5
+    21300012: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_6
+    21300014: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_7
+    21300016: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_8
+    21300018: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_9
+    21300020: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_10
+    21300022: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_11
+    21300024: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_12
+    21300026: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_13
+    21300028: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_14
+    21300030: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_15
+    21300032: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_16
+    21300034: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_17
+    21300036: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_18
+    21300038: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_19
+    21300040: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_20
+    21300042: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_21
+    21300044: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_22
+    21300046: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_23
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 3
+    wrapV: 3
+    wrapW: 3
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_0
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 924
+        width: 240
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023f17f2f3f0294e82c4154730d9a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 924
+        width: 239
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250829b684d03c46be466a69bcdfbf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 830
+        width: 240
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573a107a37929844984cd011fdc40a2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 828
+        width: 240
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d05f73730580549a9964d1ff35ace9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 242
+        width: 296
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445a7e43e8e5754e9acc7a2abaf6362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 171
+        width: 296
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da07e9a7ff4cb498b12eb882142090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 393
+        width: 192
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529af27b37be744bb4ca110a01124bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df666448b68afbc4582b808012e0b6bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 354
+        width: 192
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d212df907487bcc4a83a21d44cd5a519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 592
+        width: 160
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630306f35a4a3f4685b5a1718183094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 602
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73ae47f0f4bb7428e513ea545e84bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 602
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c995dda667d904caffa26117c13acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 576
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86915572f113be440aa5d27bab256ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8eba2be94832847819eae615b46121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 576
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057a974af8124742a60e81f0501396e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 504
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7038d45069ed41b4468b87d803e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 940
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c66e73606854438a00f9d6e46bbd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 940
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cbdb7048ac9654ba8ea16bc7030017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 940
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49e560cbbc97942b9405eabbe2398c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 456
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee9c2df4b99424bbf2d56ce4e3af95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 790
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dc07a46527d3e4aa3361a7dc996bae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1017
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56845b4ff7f71149aca0c89df0c7bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 456
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a30bd92daa2c419ac766f1b04ccb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Twinkle Snow Zone_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 790
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd598019c572c34e917ec678c2a541a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cee6d6d67df6bd54aa5fc36b114ef231
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 017401f891caba249a3e0ae7d29ec17f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_0
+    21300002: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_1
+    21300004: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_2
+    21300006: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_3
+    21300008: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_4
+    21300010: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_5
+    21300012: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_6
+    21300014: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_7
+    21300016: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_8
+    21300018: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_9
+    21300020: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_10
+    21300022: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_11
+    21300024: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_12
+    21300026: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_13
+    21300028: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_14
+    21300030: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_15
+    21300032: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_16
+    21300034: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_17
+    21300036: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_18
+    21300038: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_19
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5956904, y: 0.7712159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8167d62fbd8846f49a1cd5b807a2a9a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 99
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5374447, y: 0.74085605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9801f28345b880046b6e0c19322c0017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 99
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5377876, y: 0.7432511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee68f9a09602241b9d47e4385074fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 99
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.50185704, y: 0.7432511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfeaa1111709ff4d9f7a45ff6e495db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 99
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4721854, y: 0.7428799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ac1a6dfcd34345945f0a8c21d7e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 99
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.43960768, y: 0.7428799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38da7c53c4f39147adb8e3ed6181b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 99
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.43719187, y: 0.74692786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7bd1baec06b9845bf2c4919c7969cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 99
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4204321, y: 0.7428799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c696c2522ddca4784bc0da3329ffb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 99
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.42511272, y: 0.744904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab6af2882e8d44c891470d2aa02f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 99
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.42277336, y: 0.7428799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455c88dc83d084541aaee0f1f1ac0fc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 99
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.42511272, y: 0.7388318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388fa0a97d669e9489b38efc966b1e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 99
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.40578732, y: 0.7428799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea6e48638643cf45b817aa1b5b93973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 100
+        width: 19
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618a11c05ee5a94789a4c992bccb70c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_13
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 99
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7a04ec5f356845bcdb991bc4e8015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9ac6d2f1c9d1948b8da6ad5fc50370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_15
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 99
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe7274f0641753468dcec79ff29e61f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 99
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa67cdf5e62f644991ed679936b9105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6119867dade77b4188d2bfc8ccb1ff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_18
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 99
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e21fdd5abfac749ba244c3ac6d9a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Aria of Sorrow - Skull Archer_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 100
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c583e079c00445ade8dd3d593031b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6632d7e70d4f01f4e9158070f92d15df
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

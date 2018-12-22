@@ -1,0 +1,413 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &152104450055513277
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8578820114532255992}
+      propertyPath: m_Name
+      value: HealthPickup Meat
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7323339260413848891}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: 8a40a846835eb794fb3a71ba712a5ed7,
+        type: 3}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.x
+      value: 0.0015618801
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.y
+      value: -0.030026913
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.x
+      value: 0.87813616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.y
+      value: 0.8161187
+      objectReference: {fileID: 0}
+    - target: {fileID: 1844351143282004785}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 870b8f2d1d8b94340aba075068be7add, type: 3}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.x
+      value: -0.0002578497
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.y
+      value: -0.03086847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.x
+      value: 0.88433003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.y
+      value: 0.8176092
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 529091704078447060}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1844351143282004785}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 80d62fb057c5c2b4f92c2cd574ee1bd9, type: 3}
+    - target: {fileID: 1844351143282004785}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 80d62fb057c5c2b4f92c2cd574ee1bd9, type: 3}
+    - target: {fileID: 1844351143282004785}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 80d62fb057c5c2b4f92c2cd574ee1bd9, type: 3}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.x
+      value: -0.0002578497
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.y
+      value: -0.03086847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.x
+      value: 0.88433003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.y
+      value: 0.8176092
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.x
+      value: -0.0002578497
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.y
+      value: -0.03086847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.x
+      value: 0.88433003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.y
+      value: 0.8176092
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.x
+      value: -0.0002578497
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.y
+      value: -0.03086847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.x
+      value: 0.88433003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.y
+      value: 0.8176092
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.x
+      value: -0.0002578497
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Offset.y
+      value: -0.03086847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.x
+      value: 0.88433003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2419406915330995147}
+      propertyPath: m_Size.y
+      value: 0.8176092
+      objectReference: {fileID: 0}
+    - target: {fileID: 7323339260413848891}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: 8a40a846835eb794fb3a71ba712a5ed7,
+        type: 3}
+    - target: {fileID: 7323339260413848891}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: 8a40a846835eb794fb3a71ba712a5ed7,
+        type: 3}
+    - target: {fileID: 7323339260413848891}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7323339260413848891}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: 8a40a846835eb794fb3a71ba712a5ed7,
+        type: 3}
+    - target: {fileID: 7323339260413848891}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: 8a40a846835eb794fb3a71ba712a5ed7,
+        type: 3}
+    - target: {fileID: 7323339260413848891}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.x
+      value: 0.0015618801
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.y
+      value: -0.030026913
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.x
+      value: 0.87813616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.y
+      value: 0.8161187
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.x
+      value: 0.0015618801
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.y
+      value: -0.030026913
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.x
+      value: 0.87813616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.y
+      value: 0.8161187
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.x
+      value: 0.0015618801
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.y
+      value: -0.030026913
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.x
+      value: 0.87813616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.y
+      value: 0.8161187
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.x
+      value: 0.0015618801
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Offset.y
+      value: -0.030026913
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.x
+      value: 0.87813616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628564567639147982}
+      propertyPath: m_Size.y
+      value: 0.8161187
+      objectReference: {fileID: 0}
+    - target: {fileID: 8578820114532255992}
+      propertyPath: m_Name
+      value: HealthPickup Meat
+      objectReference: {fileID: 0}
+    - target: {fileID: 8578820114532255992}
+      propertyPath: m_Name
+      value: HealthPickup Meat
+      objectReference: {fileID: 0}
+    - target: {fileID: 8578820114532255992}
+      propertyPath: m_Name
+      value: HealthPickup Meat
+      objectReference: {fileID: 0}
+    - target: {fileID: 8578820114532255992}
+      propertyPath: m_Name
+      value: HealthPickup Meat
+      objectReference: {fileID: 0}
+    - target: {fileID: 8435933969974520901, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Name
+      value: HealthPickup Meat
+      objectReference: {fileID: 0}
+    - target: {fileID: 381631874614891881, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 381631874614891881, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 381631874614891881, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475368935021545862, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: 8a40a846835eb794fb3a71ba712a5ed7,
+        type: 3}
+    - target: {fileID: 7764902020943962483, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0015618801
+      objectReference: {fileID: 0}
+    - target: {fileID: 7764902020943962483, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.030026913
+      objectReference: {fileID: 0}
+    - target: {fileID: 7764902020943962483, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.87813616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7764902020943962483, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.8161187
+      objectReference: {fileID: 0}
+    - target: {fileID: 1982729144139020172, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 870b8f2d1d8b94340aba075068be7add, type: 3}
+    - target: {fileID: 2562293051233785718, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0002578497
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562293051233785718, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.03086847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562293051233785718, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.88433003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2562293051233785718, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.8176092
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6dd5386f40910b44f99c88dd01a2e2b5, type: 3}
+--- !u!1 &8578820114532255992 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8435933969974520901, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 152104450055513277}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &529091704078447060 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 381631874614891881, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 152104450055513277}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &7323339260413848891 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 7475368935021545862, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 152104450055513277}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &7628564567639147982 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 7764902020943962483, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 152104450055513277}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1844351143282004785 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1982729144139020172, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 152104450055513277}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8578820114532255992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8aab10085242234f8dec7927b566a1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!61 &2419406915330995147 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 2562293051233785718, guid: 6dd5386f40910b44f99c88dd01a2e2b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 152104450055513277}
+  m_PrefabAsset: {fileID: 0}

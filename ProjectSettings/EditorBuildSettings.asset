@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/TitleScreen.unity
+    guid: 23ae527c4800f974d937f467dd09a9a8
+  - enabled: 1
+    path: Assets/_Scenes/HubWorld.unity
+    guid: b2b2d014da0795a43aa9ed4ba8a63c55
+  - enabled: 1
+    path: Assets/_Scenes/Castlevania_Stage.unity
+    guid: 2dda7d344f5223445b89e67c02ee9ade
+  - enabled: 1
+    path: Assets/_Scenes/EndCredits.unity
+    guid: 7ac062ffbee6c584fb57a8218d096ab2
+  m_configObjects: {}

@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 32a939c0a121ba14885778440ae29578
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_0
+    21300002: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_1
+    21300004: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_2
+    21300006: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_3
+    21300008: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_4
+    21300010: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_5
+    21300012: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_6
+    21300014: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_7
+    21300016: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_8
+    21300018: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_9
+    21300020: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_10
+    21300022: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_11
+    21300024: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_12
+    21300026: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_13
+    21300028: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_14
+    21300030: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_15
+    21300032: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_16
+    21300034: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_17
+    21300036: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_18
+    21300038: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_19
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1204
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3cacd07de53e6458a1ca5fb6aa58a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1204
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287308814d1b428488e9ff90aed82a2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1204
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f18d4cae5ea5d45b26f7067198ebbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1204
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8804ba2dd5ad5544ac1ad5da13fbd22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1139
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec1fa3570b8534d946942d90cd430b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1139
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70256697e2e914fa943408b226cffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1139
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7551a9556d9a4a498357acf9e0a549c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1139
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b625fc19010cbba48b521b8aa56c1f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1074
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5bd9ad836b31d4fab354bae4b7845d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1074
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2e1ac9b0c63d84da9df4eb6d54ddd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1074
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f5d092dc2485440a508353ff759abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1074
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dedc4d74921c7b4bac26a16ded4ae82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1426
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12cbb1906f802b4c9dce11ab891eec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1426
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d833250e3e8bf4a96d4aee9105836e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1426
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a783ad3044fc046bbd88d1787a3a4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1426
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79694d3047aa4e24f888e3f772570bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1426
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d73f57b7bbfd43b5699cec6192e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1426
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c50c681ebb90464691985d2967e6a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1426
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6be14af8427c041b10064f607e70fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 1B Aqua Tunnel_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1426
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0550cf41bc35144838bc450c6b8705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b189a0701f073a249bf5c28a35dd5838
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 4196b32f040fc624d90b7232e4e31bc5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_0
+    21300002: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_1
+    21300004: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_2
+    21300006: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_3
+    21300008: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_4
+    21300010: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_5
+    21300012: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_6
+    21300014: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_7
+    21300016: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_8
+    21300018: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_9
+    21300020: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_10
+    21300022: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_11
+    21300024: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_12
+    21300026: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_13
+    21300028: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_14
+    21300030: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_15
+    21300032: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_16
+    21300034: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_17
+    21300036: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_18
+    21300038: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_19
+    21300040: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_20
+    21300042: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_21
+    21300044: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_22
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3647e21d8b150f14eab5abcd5bd9f039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f94efa820acdc47bcb845d27848c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d626af79c00044a9fbbb31ae0a2c89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1213
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196f84a85254954587369c0e4ce7d94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1213
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6171cf2424b54241b22081b514bc35f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1213
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303fa9ebd5ef3914d820b72e3d5b075d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1213
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28c9be8760ef54ea290b63c2681587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1213
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99846d0dc83b4f244808e0ce147ec5ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1213
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec359e602893df549bfb423915cd902a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b45f777f57f9b459ca903ec022d667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efa82752131cd438d391ae72b2e587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12e6031feb0eae478b629527ff8e884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aa708c1365d9740b67ddd7a687f8a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62390a328ed7ec45bbf6c5483b249ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba1ca1e3fe555840891bd40d7543500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1314
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd050de3f96564aa11563a09da5def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1273
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240c68e96e1dee419e6fc7f5454907a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1273
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e04979ed89fe4d84e57651d88ce75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1273
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84af0f824750964699bb36bdab8dabb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1273
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b2521228a10cd4a8d5c098c068245e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1273
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd85df4412ffb9d4682d638d18517c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1273
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e232c0c344c4d34ead8a0335b285f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet - Enemies Stage 6A Trap Hideout_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1273
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ebd3a545d6b44595b7ac50c5a9990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: deac01de907c3774081e38a85d27c279
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

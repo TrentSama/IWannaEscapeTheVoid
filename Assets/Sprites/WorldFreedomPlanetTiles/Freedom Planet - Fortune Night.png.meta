@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: 3fc70d5d8da1d13498bc6d1faeaf30dd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Freedom Planet - Fortune Night_0
+    21300002: Freedom Planet - Fortune Night_1
+    21300004: Freedom Planet - Fortune Night_2
+    21300006: Freedom Planet - Fortune Night_3
+    21300008: Freedom Planet - Fortune Night_4
+    21300010: Freedom Planet - Fortune Night_5
+    21300012: Freedom Planet - Fortune Night_6
+    21300014: Freedom Planet - Fortune Night_7
+    21300016: Freedom Planet - Fortune Night_8
+    21300018: Freedom Planet - Fortune Night_9
+    21300020: Freedom Planet - Fortune Night_10
+    21300022: Freedom Planet - Fortune Night_11
+    21300024: Freedom Planet - Fortune Night_12
+    21300026: Freedom Planet - Fortune Night_13
+    21300028: Freedom Planet - Fortune Night_14
+    21300030: Freedom Planet - Fortune Night_15
+    21300032: Freedom Planet - Fortune Night_16
+    21300034: Freedom Planet - Fortune Night_17
+    21300036: Freedom Planet - Fortune Night_18
+    21300038: Freedom Planet - Fortune Night_19
+    21300040: Freedom Planet - Fortune Night_20
+    21300042: Freedom Planet - Fortune Night_21
+    21300044: Freedom Planet - Fortune Night_22
+    21300046: Freedom Planet - Fortune Night_23
+    21300048: Freedom Planet - Fortune Night_24
+    21300050: Freedom Planet - Fortune Night_25
+    21300052: Freedom Planet - Fortune Night_26
+    21300054: Freedom Planet - Fortune Night_27
+    21300056: Freedom Planet - Fortune Night_28
+    21300058: Freedom Planet - Fortune Night_29
+    21300060: Freedom Planet - Fortune Night_30
+    21300062: Freedom Planet - Fortune Night_31
+    21300064: Freedom Planet - Fortune Night_32
+    21300066: Freedom Planet - Fortune Night_33
+    21300068: Freedom Planet - Fortune Night_34
+    21300070: Freedom Planet - Fortune Night_35
+    21300072: Freedom Planet - Fortune Night_36
+    21300074: Freedom Planet - Fortune Night_37
+    21300076: Freedom Planet - Fortune Night_38
+    21300078: Freedom Planet - Fortune Night_39
+    21300080: Freedom Planet - Fortune Night_40
+    21300082: Freedom Planet - Fortune Night_41
+    21300084: Freedom Planet - Fortune Night_42
+    21300086: Freedom Planet - Fortune Night_43
+    21300088: Freedom Planet - Fortune Night_44
+    21300090: Freedom Planet - Fortune Night_45
+    21300092: Freedom Planet - Fortune Night_46
+    21300094: Freedom Planet - Fortune Night_47
+    21300096: Freedom Planet - Fortune Night_48
+    21300098: Freedom Planet - Fortune Night_49
+    21300100: Freedom Planet - Fortune Night_50
+    21300102: Freedom Planet - Fortune Night_51
+    21300104: Freedom Planet - Fortune Night_52
+    21300106: Freedom Planet - Fortune Night_53
+    21300108: Freedom Planet - Fortune Night_54
+    21300110: Freedom Planet - Fortune Night_55
+    21300112: Freedom Planet - Fortune Night_56
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_0
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 599
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355d5bf1b7439042a555a1a8fdc7578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 598
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cad8579265f834e98f9eea1a67e242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 612
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358448d0cb42cbb4cb1d95dbb3736c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 633
+        width: 224
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2934ce8f45375cd4fbdd3ae8727edb2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 703
+        width: 192
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e42d8a7270c964991bb88c09075d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 505
+        width: 160
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98597d513a16146b1937491d19fe40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 604
+        width: 548
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca742855f486ec46bce85268802dcc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 878
+        width: 660
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f26e957497da43ab0966d53f2caf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_8
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1163
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23e08f7cb00c24689ff185617dc17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_9
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1163
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a490e7aaaefc7f44799233955e3ea486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_10
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1163
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2654e4f384364c84e90277b44b577fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1596
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be3054b8b9aec6408aa247fc783e5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_12
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1672
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24527dce30858f147bb19dd9f414cb7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_13
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1220
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855be0b225db59489d42ec3bdb42d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 221
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a612ef84b63fa284da4174ea7747ede3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 270
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bc219c3bccf1548a42512c82ee6306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 241
+        width: 400
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244a3e1e287f6a4889f7219d2b2da42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 990
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ded3c382c5d5d44bbd659790aefa17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 990
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26afa10e42657e84ca02afa9f83a6617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 990
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccba9b89475dcc4796892f085377f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 990
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b06e6b358dd85e47954db5bdfb861b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 990
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c15b7bb2f7262442ba7a10d3486e4f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1090
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338838e515890b4d83029ff9a4fb20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_23
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1090
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd42a8ec2a0fcc4fb35770e73b29ab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_24
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1469
+        width: 384
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e3de23a8f404047a68cbd0bf0f8b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1365
+        width: 384
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a35b90186ad9b4e823d7b3881fd810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_26
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1630
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899e7ec1d4fbbd4a8d6cf53073f5f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_27
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1523
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4797e3003e05c04eb8bc59c2317fc52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1527
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0b76067877ed4882c3013023ff219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1267
+        width: 112
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c27b5e5f480e548aa4d2baa37a735d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1267
+        width: 112
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557bc0aaad9966418b9e3c5e2281a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1267
+        width: 112
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d98a13971029b479a0b280dd9908db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1267
+        width: 112
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4491199377875f148b327f16d50f6ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1400
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bd24d4d2ef55b44a921e98385bf1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_34
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1415
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9210a6711e8d4aaf48c68f3adf1ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_35
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1396
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475b66d8377dde47b7299845a76a448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_36
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1228
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe13866bc24ded48bb7eb7d7d2c63dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_37
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1228
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f88ef36608e3354882be195ed0f5c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_38
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1228
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f2ab662088824a9adb9326cc58aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_39
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1228
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b06e7c15570c349b77b8c4544bd167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_40
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1228
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb22010b1485064fb51040ef5b9e55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_41
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1321
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9fa17fd5be247458d0724c1daffd51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_42
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1266
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1723eea233b40408f869af90b4373b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_43
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 12
+        width: 139
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c510041cd734c4aafb991b596bfd67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 12
+        width: 139
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3590f2999a9d82e42be56e4bb356949b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 139
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9879275a1bbf43c4ead6fdbbda57a8e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_46
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 12
+        width: 224
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611346bbb3a031a49bc19daea32016d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_47
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 101
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352597dc94cbd6641a407ec8f96cb149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_48
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 98
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4232bff58b7b3894387d545721f16142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_49
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 98
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8c362b7bdb7b64ca73a3b59ffc9d29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_50
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 98
+        width: 120
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e68702e4f63454da3e7795e0bec506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_51
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 99
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5594bf8ffcd21640a2cd901e547af4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_52
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 99
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9f6b86d56f8f41b896c4b76725d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_53
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 279
+        width: 177
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03631b5340eb513409a61e848ea87e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_54
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 280
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421d8d1cdb088545a2240670ed29824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_55
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 107
+        width: 181
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431cdad938aaa5f4a9a2caca419691db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedom Planet - Fortune Night_56
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 391
+        width: 176
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aef9fddad1ac4469ba41edbba71e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 18e4a9ce3b1289145ad084f605622a87
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
