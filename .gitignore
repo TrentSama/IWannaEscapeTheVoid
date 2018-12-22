@@ -34,3 +34,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Prefabs/TerrainPrefabs.meta
+Assets/Scripts/Enemy Scripts/Bosses.meta
+Assets/Sound/SFX/EnemySFX.meta
+Assets/Sound/SFX/ObjectSFX.meta
+Assets/Sprites/HubWorld.meta
+Assets/Sprites/WorldFreedomPlanetTiles/FPlanetTiles.meta
+Assets/Sprites/WorldMetroidTiles/Metroid Tiles.meta
+Assets/Sprites/WorldSonicTiles/Sonic tiles.meta
