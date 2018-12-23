@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   roomCamera: {fileID: 0}
-  exitRoom: {fileID: 0}
+  exitRoom: {fileID: 11400000, guid: 6296d8a26be6e804e97750ce0a369155, type: 2}
 --- !u!114 &6946205510667050718
 MonoBehaviour:
   m_ObjectHideFlags: 0
